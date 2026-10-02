@@ -1,0 +1,4 @@
+# Works with TensorFlow 1.14 (original, Python 3.7) and TensorFlow 2.x
+tensorflow>=1.14
+opencv-python>=4.2
+numpy
