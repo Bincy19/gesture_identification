@@ -2,11 +2,6 @@
 
 Real-time recognition of hand-sign alphabet gestures (A–Z, `space`, `del`, `nothing`) from a webcam, using **transfer learning on Inception v3** with **TensorFlow** and **OpenCV**.
 
-B.Tech final-year project, Department of Computer Science and Engineering, Mount Zion Institute of Science and Technology (APJ Abdul Kalam Technological University), 2020.
-By **Bincy Annamma Saji** and **N C Chanjal**. Guide: Ms. Ruhin Mary Saji.
-
----
-
 ## How it works
 
 ```
